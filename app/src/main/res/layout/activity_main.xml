@@ -16,10 +16,6 @@
         android:layout_gravity="center_horizontal"
         tools:layout="@layout/recyclerview_layout" />
 
-    <fragment
-        android:id="@+id/fragment2"
-        android:name="com.example.naveed.contact.detailFragment"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+
 
 </LinearLayout>
